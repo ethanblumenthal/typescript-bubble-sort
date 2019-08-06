@@ -3,7 +3,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var Sorter = /** @class */ (function () {
     function Sorter(collection) {
         this.collection = collection;
-        this.collection = collection;
     }
     Sorter.prototype.sort = function () {
         var length = this.collection.length;
